@@ -18,6 +18,6 @@
    <br>
    <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mobcode1337&show_icons=true&theme=dark" />
    <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://metrics.lecoq.io/mobcode1337" />
   </p>
 </details>
