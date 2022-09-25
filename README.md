@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">MobCode1337</h1>
 
-<!--
-**mobcode1337/mobcode1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">C++ Beginner</h3>
+<p align="center">
+ <a href="https://pastebin.com/raw/FVk392dL"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+ <br>
+ <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-mobcode1337&color=green" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <p>
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobcode1337&layout=compact&theme=dark" />  
+   <br>
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mobcode1337&show_icons=true&theme=dark" />
+   <br>
+   <img src="https://metrics.lecoq.io/baggerfast" />
+  </p>
+</details>
