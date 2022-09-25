@@ -2,7 +2,7 @@
 
 <h3 align="center">C++ Beginner</h3>
 <p align="center">
- <a href="https://pastebin.com/raw/FVk392dL"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white" /></a>
+ <a href="https://pastebin.com/raw/FVk392dL"><img src="https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white" /></a>
  <br>
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-mobcode1337&color=green" />
 </p>
